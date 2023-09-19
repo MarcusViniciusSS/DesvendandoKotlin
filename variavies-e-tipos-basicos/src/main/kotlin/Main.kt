@@ -58,6 +58,14 @@ fun main(args: Array<String>) {
     // tarefa 4: Criar uma nova frase utilizando string tamplate com o nome e idade do professor favorito adicionando uma idade a mais nele.
     // tarefa 5: Printar uma mensagem em tela quando a idade do professor for maior que 30 anos "Está ficando coroa!" senão "Ainda é um jovem igual mariano!"
     // tarefa 6: Agora crie uma funcao que receba como parametro os dados de professor e imprima na tela a frase que foi criada na tarefa 4 e 5
+    // tarefa 7: declare qual o tipo correto das variaveis abaixo
+                val a = 1000
+                val b = "log message"
+                val c = 3.14
+                val d = 100_000_000_000_000
+                val e = false
+                val f = '\n'
+                var g  = IntArray(5) // desafio!
 
     // Try adding program arguments via Run/Debug configuration.
     // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
