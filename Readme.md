@@ -35,7 +35,7 @@ Agora que você tem o Kotlin instalado, vamos começar a explorar os conceitos d
 
 ## Variáveis e Tipos Básicos
 
-No tópico de [Variáveis e Tipos Básicos](/variaveis-e-tipos-basicos), você aprenderá sobre como declarar variáveis, os tipos de dados básicos em Kotlin e como trabalhar com eles.
+No tópico de [Variáveis e Tipos Básicos](variavies-e-tipos-basicos), você aprenderá sobre como declarar variáveis, os tipos de dados básicos em Kotlin e como trabalhar com eles.
 
 ## Coleções
 
