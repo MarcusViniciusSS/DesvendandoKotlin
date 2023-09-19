@@ -39,7 +39,7 @@ No tópico de [Variáveis e Tipos Básicos](variavies-e-tipos-basicos), você ap
 
 ## Coleções
 
-As [Coleções](/colecoes) são fundamentais para muitos aplicativos Kotlin. Neste tópico, você aprenderá sobre listas, conjuntos, mapas e como manipulá-los eficazmente.
+As [Coleções](colecoes) são fundamentais para muitos aplicativos Kotlin. Neste tópico, você aprenderá sobre listas, conjuntos, mapas e como manipulá-los eficazmente.
 
 ## Controle de Fluxo
 
