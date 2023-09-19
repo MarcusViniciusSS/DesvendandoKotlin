@@ -22,9 +22,33 @@ fun main(args: Array<String>) {
     // String template!!
     println("$NomeMutavel tem ${IdadeMutavel + 20} anos de idade");
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    // Operadores aritmeticos
+    IdadeMutavel += 7            // adicao
+    IdadeMutavel -= 3            // subtração
+    IdadeMutavel *= 2            // multiplicação
+    IdadeMutavel /= 3            // Divisão
+
+    // Operadores de comparação
+    IdadeMutavel == 10           // igualdade
+    IdadeMutavel != 10           // desigualdade
+    IdadeMutavel > 10            // maior que
+    IdadeMutavel < 10            // menor que
+    IdadeMutavel >= 10           // maior ou igual que
+    IdadeMutavel <= 10           // menor ou igual que
+
+    // Operadores logicos
+    IdadeMutavel > 10 && IdadeMutavel < 20 // AND
+    IdadeMutavel > 10 || IdadeMutavel < 20 // OR
+    !(IdadeMutavel > 10)                   // NOT
+
+    // Tipos basicos (https://kotlinlang.org/docs/basic-types.html)
+    // Integers [Byte, Short, Int, Long]
+    // Floating-point numbers [Float, Double]
+    // Characters [Char]
+    // Booleans [Boolean]
+    // Strings [String]
+    // Unsigned integers [UByte, UShort, UInt, ULong]
+    // Arrays [Array]
 
     print("###############################Aqui inicia sua vez de codar!!#############################################")
 
@@ -32,4 +56,10 @@ fun main(args: Array<String>) {
     // tarefa 2: criar uma variavel imutavel com o nome do professor favorito e imprimir na tela
     // tarefa 3: criar uma variavel imutavel com a idade do professor favorito e imprimir na tela
     // tarefa 4: Criar uma nova frase utilizando string tamplate com o nome e idade do professor favorito adicionando uma idade a mais nele.
+    // tarefa 5: Printar uma mensagem em tela quando a idade do professor for maior que 30 anos "Está ficando coroa!" senão "Ainda é um jovem igual mariano!"
+    // tarefa 6: Agora crie uma funcao que receba como parametro os dados de professor e imprima na tela a frase que foi criada na tarefa 4 e 5
+
+    // Try adding program arguments via Run/Debug configuration.
+    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
+    println("Program arguments: ${args.joinToString()}")
 }
