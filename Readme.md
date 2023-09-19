@@ -43,7 +43,7 @@ As [Coleções](colecoes) são fundamentais para muitos aplicativos Kotlin. Nest
 
 ## Controle de Fluxo
 
-O [Controle de Fluxo](/controle-fluxo) é crucial para a lógica do seu programa. Aprenda sobre estruturas de decisão, loops e como controlar o fluxo de execução do seu código.
+O [Controle de Fluxo](controle-de-fluxo) é crucial para a lógica do seu programa. Aprenda sobre estruturas de decisão, loops e como controlar o fluxo de execução do seu código.
 
 ## Funções
 
