@@ -47,7 +47,7 @@ O [Controle de Fluxo](controle-de-fluxo) é crucial para a lógica do seu progra
 
 ## Funções
 
-As [Funções](/funcoes) são blocos de código reutilizáveis em Kotlin. Descubra como declarar, chamar e passar argumentos para funções.
+As [Funções](funcoes) são blocos de código reutilizáveis em Kotlin. Descubra como declarar, chamar e passar argumentos para funções.
 
 ## Classes
 
