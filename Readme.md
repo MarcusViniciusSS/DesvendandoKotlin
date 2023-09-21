@@ -10,12 +10,6 @@ Bem-vindo ao projeto "Desvendando o Kotlin"! Este é um recurso de aprendizado d
 4. [Controle de Fluxo](#controle-de-fluxo)
 5. [Funções](#funções)
 6. [Classes](#classes)
-7. [Null Safety](#null-safety)
-8. [Programação Assíncrona](#programação-assíncrona)
-9. [Coroutines](#coroutines)
-10. [Anotações](#anotações)
-11. [Destructuring](#destructuring)
-12. [Reflections](#reflections)
 
 ## Instalação
 
@@ -52,30 +46,6 @@ As [Funções](funcoes) são blocos de código reutilizáveis em Kotlin. Descubr
 ## Classes
 
 O tópico sobre [Classes](classes) abrange a orientação a objetos em Kotlin. Aprenda a criar classes, objetos, herança e polimorfismo.
-
-## Null Safety
-
-Kotlin é conhecido por sua segurança em relação a valores nulos. No tópico de [Null Safety](null-safety), você entenderá como o Kotlin lida com nulos e como evitar erros comuns.
-
-## Programação Assíncrona
-
-A [Programação Assíncrona](/programacao-assincrona) é essencial para aplicativos modernos. Descubra como realizar tarefas assíncronas em Kotlin.
-
-## Coroutines
-
-As [Coroutines](/coroutines) são uma maneira poderosa de lidar com tarefas assíncronas. Aprenda a criar e usar coroutines para escrever código assíncrono de maneira concisa.
-
-## Anotações
-
-As [Anotações](/anotacoes) são metadados que podem ser adicionados ao seu código Kotlin para melhorar a legibilidade e a eficiência.
-
-## Destructuring
-
-O recurso de [Destructuring](/destructuring) permite que você descompacte valores complexos em partes menores. Saiba como usá-lo para simplificar seu código.
-
-## Reflections
-
-A [Reflection](/reflections) permite que você inspecione e manipule o código em tempo de execução. Explore como usar a reflexão em Kotlin.
 
 ## Contribuição
 
