@@ -28,6 +28,7 @@ fun main() {
     println(alunoA.qualTurma())
     
     println(alunoA == alunoB)
+    println(alunoA)
     
     println("#############################Sua vez de codar!###############################")
     
