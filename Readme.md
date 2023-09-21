@@ -51,11 +51,11 @@ As [Funções](funcoes) são blocos de código reutilizáveis em Kotlin. Descubr
 
 ## Classes
 
-O tópico sobre [Classes](/classes) abrange a orientação a objetos em Kotlin. Aprenda a criar classes, objetos, herança e polimorfismo.
+O tópico sobre [Classes](classes) abrange a orientação a objetos em Kotlin. Aprenda a criar classes, objetos, herança e polimorfismo.
 
 ## Null Safety
 
-Kotlin é conhecido por sua segurança em relação a valores nulos. No tópico de [Null Safety](/null-safety), você entenderá como o Kotlin lida com nulos e como evitar erros comuns.
+Kotlin é conhecido por sua segurança em relação a valores nulos. No tópico de [Null Safety](null-safety), você entenderá como o Kotlin lida com nulos e como evitar erros comuns.
 
 ## Programação Assíncrona
 
