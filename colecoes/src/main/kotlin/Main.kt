@@ -55,13 +55,29 @@ fun main() {
     println("#################################Agora sua vez de codar!########################################")
 
     // Tarefa 1: Crie uma lista de numeros inteiros imutaveis e exiba-a
+    val inteiros = listOf(1, 2, 3, 4, 5);
+    println(inteiros)
     // Tarefa 2: Crie uma lista de numeros inteiros mutaveis e exiba-a
+    var inteirosMutavel = mutableListOf(1, 2, 3, 4, 5);
+    println(inteirosMutavel)
     // Tarefa 3: Crie um conjunto de numeros inteiros imutaveis e exiba-a
+    val inteirosSet = setOf(1, 2, 3, 4, 5);
+    println(inteirosSet)
     // Tarefa 4: Crie um conjunto de numeros inteiros mutaveis e exiba-a
+    var inteirosSetMutavel = mutableSetOf(1, 2, 3, 4, 5);
+    println(inteirosSetMutavel)
     // Tarefa 5: Crie um mapa de numeros inteiros imutaveis e exiba-a
+    val inteirosMap = mapOf(1 to 1, 2 to 2, 3 to 3, 4 to 4, 5 to 5);
+    println(inteirosMap)
     // Tarefa 6: Crie um mapa de numeros inteiros mutaveis e exiba-a
+    var inteirosMapMutavel = mutableMapOf(1 to 1, 2 to 2, 3 to 3, 4 to 4, 5 to 5);
+    println(inteirosMapMutavel)
     // Tarefa 7: Crie verifique se dado um numero esta contido em uma lista imutavel
+    println(inteiros.contains(1))
     // Tarefa 8: Crie verifique se dado um numero esta contido em mapa imutavel
+    println(inteirosMap.contains(1))
     // Tarefa 9: Retorne a soma das quantidades de cada lista. Exemplo: lista1 = [1, 2, 3] lista2 = [4, 5, 6] resultado = 6
+    println(inteiros.sum())
     // Tarefa 10: Verifique se algum elemente contains na lista. Exemplo: lista = [1, 2, 3] contains = 2 , resultado = true
+    println(inteiros.contains(2))
 }
